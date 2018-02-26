@@ -1,10 +1,10 @@
 {
     "appid": "833e83bc-dda7-4af7-8d82-4a9083174f8c",
-    "name": "TISCALE",
+    "name": "RL TitaniumScale",
     "description": "This app implements investigative actions on the ReversingLabs TISCALE Malware Analysis Appliance",
     "type": "sandbox",
     "main_module": "tiscale_connector.pyc",
-    "app_version": "1.1.0",
+    "app_version": "1.1.2",
     "utctime_updated": "2017-12-09T01:58:44.000000Z",
     "package_name": "phantom_tiscale",
     "product_vendor": "ReversingLabs",
